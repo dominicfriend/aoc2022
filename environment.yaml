@@ -5,4 +5,3 @@ dependencies:
   - python
   - pandas
   - jupyter
-  - git
