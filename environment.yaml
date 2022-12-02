@@ -2,6 +2,6 @@ name: aoc
 channels:
   - defaults
 dependencies:
-  - python
-  - pandas
-  - jupyter
+  - python>=3.10
+  - pandas>=1.5
+  - jupyter>=1.0
